@@ -131,22 +131,22 @@ export const projects: ProjectType[] = [
     link: "https://github.com/NirbhayBawankule/HR-Analytics-Employee-Attrition-Performance",
   },
   {
-    name: "Multiple Linear Regression (Portfolio Project)",
-    desc: "A multiple linear regression project built from scratch to analyze and predict targets using feature engineering and model evaluation.",
-    github: "<REPLACE_ME_MLR_github>",
-    link: "<REPLACE_ME_MLR_demo_or_notebook>",
+    name: "Breast-Cancer-Diagnosis-Logistic-Regression-from-Scratch",
+    desc: "A from-scratch implementation of Logistic Regression for diagnosing breast cancer using the Wisconsin Diagnostic dataset. Includes full data analysis, visualization, model training, evaluation, and prediction interface.",
+    github: "Breast-Cancer-Diagnosis-Logistic-Regression-from-Scratch",
+    link: "https://github.com/NirbhayBawankule/Breast-Cancer-Diagnosis-Logistic-Regression-from-Scratch",
   },
   {
-    name: "Breast Cancer Diagnosis — Logistic Regression (From Scratch)",
-    desc: "A Kaggle dataset based logistic regression project implemented from scratch for binary classification and evaluation.",
-    github: "<REPLACE_ME_BC_logreg_github>",
-    link: "<REPLACE_ME_BC_logreg_notebook_or_demo>",
+    name: "Uber-Ride-Data-Analysis",
+    desc: "An end-to-end data analysis project exploring Uber ride request patterns by time, location, and trip status. Includes data cleaning, feature engineering, visualizations (heatmaps, time-series plots), and actionable insights to improve service efficiency.",
+    github: "Uber-Ride-Data-Analysis",
+    link: "https://github.com/NirbhayBawankule/Uber-Ride-Data-Analysis",
   },
   {
-    name: "Password Strength Classifier (Neural Network)",
-    desc: "A softmax-based neural network classifier to determine password strength; includes training and evaluation.",
-    github: "<REPLACE_ME_password_classifier_github>",
-    link: "<REPLACE_ME_password_classifier_demo>",
+    name: "multiple-linear-regression-from-scratch",
+    desc: "Implementation of Multiple Linear Regression using Python to predict outcomes based on multiple features. Includes data preprocessing, model training, evaluation, and visualization.",
+    github: "multiple-linear-regression-from-scratch",
+    link: "https://github.com/NirbhayBawankule/multiple-linear-regression-from-scratch",
   },
 ];
 
@@ -157,11 +157,11 @@ export const feedbacks: FeedbackType[] = [
 ];
 
 export const seoData: SEODataType = {
-  title: "Nirbhay Bawankule — AI & Data Engineer",
+  title: "Nirbhay Bawankule — ML Engineer",
   description: greetings.description,
   author: "Nirbhay Bawankule",
-  image: "<REPLACE_ME_PROFILE_IMAGE_URL>",
-  url: "<REPLACE_ME_WEBSITE_URL>",
+  image: "https://github.com/NirbhayBawankule/developer-portfolio/issues/1#issue-3595829434",
+  url: "https://nirbhaybawankule.github.io/developer-portfolio",
   keywords: [
     "Nirbhay",
     "Nirbhay Bawankule",

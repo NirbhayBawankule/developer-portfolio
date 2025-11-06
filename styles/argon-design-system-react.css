@@ -26,7 +26,7 @@
 }
 
 :root {
-	--blue: #5e72e4;
+	--blue: #0000000;
 	--indigo: #5603ad;
 	--purple: #8965e0;
 	--pink: #f3a4b5;
@@ -41,15 +41,15 @@
 	--gray-dark: #32325d;
 	--light: #ced4da;
 	--lighter: #e9ecef;
-	--primary: #5e72e4;
+	--primary: #000000;
 	--secondary: #f4f5f7;
 	--success: #2dce89;
 	--info: #11cdef;
 	--warning: #fb6340;
 	--danger: #f5365c;
 	--light: #adb5bd;
-	--dark: #212529;
-	--default: #172b4d;
+	--dark: #000000;
+	--default: #000000;
 	--white: #fff;
 	--neutral: #fff;
 	--darker: black;
@@ -98,9 +98,9 @@ body {
 	font-size: 1rem;
 	font-weight: 400;
 	line-height: 1.5;
-	color: #525f7f;
+	color: #e0e0e0;
 	text-align: left;
-	background-color: #fff;
+	background-color: #000;
 }
 
 [tabindex="-1"]:focus {
@@ -18198,7 +18198,7 @@ textarea[resize="horizontal"] {
 	transform: skew(4deg);
 }
 .section-shaped .shape-primary {
-	background: linear-gradient(150deg, #281483 15%, #8f6ed5 70%, #d782d9 94%);
+	background: linear-gradient(180deg, #000 0%, #111 100%)	!important;
 }
 .section-shaped .shape-primary :nth-child(1) {
 	background: #53f;

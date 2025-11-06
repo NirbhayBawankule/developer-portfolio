@@ -26,7 +26,7 @@
 }
 
 :root {
-	--black: rgb(0, 0, 0);
+	--blue: #5e72e4;
 	--indigo: #5603ad;
 	--purple: #8965e0;
 	--pink: #f3a4b5;
@@ -2015,6 +2015,7 @@ textarea.form-control {
 .form-row {
 	display: flex;
 	flex-wrap: wrap;
+
 	margin-right: -5px;
 	margin-left: -5px;
 }
@@ -2566,8 +2567,8 @@ fieldset:disabled a.btn {
 
 .btn-info {
 	color: #fff;
-	background-color: #11cdef;
-	border-color: #11cdef;
+	background-color: #000000;
+	border-color: #000000;
 	box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 .btn-info:hover {
@@ -2583,8 +2584,8 @@ fieldset:disabled a.btn {
 .btn-info.disabled,
 .btn-info:disabled {
 	color: #fff;
-	background-color: #11cdef;
-	border-color: #11cdef;
+	background-color: #000000;
+	border-color: #000000;
 }
 .btn-info:not(:disabled):not(.disabled):active,
 .btn-info:not(:disabled):not(.disabled).active,

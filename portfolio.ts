@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Nirbhay",
   description:
     "I am a Computer Science student at KIIT University, passionate about building transparent, reliable, and practical machine learning systems. My work spans projects in predictive modeling, data analysis, and neural networks. I enjoy turning complex data into actionable insights and exploring the intersection of algorithms, AI, and human decision-making. This portfolio showcases my projects, skills, and experience in Python, Machine Learning, Deep Learning, and MLOps.",
-  resumeLink: "<REPLACE_ME_RESUME_LINK>",
+  resumeLink: "https://drive.google.com/file/d/1JaXZh9MW9azPc_0rF3hcuh2BbztU0LDk/view?usp=sharing",
 };
 
 export const openSource = {
@@ -64,7 +64,7 @@ export const skillsSection: SkillsSectionType = {
     },
     {
       title: "Software Engineering",
-      lottieAnimationFile: "/lottie/skills/fullstack.json",
+      lottieAnimationFile: "/lottie/skills/AI Robot.json",
       skills: [
         emoji("⚡ Writing clean Python code and modular projects"),
         emoji("⚡ Familiar with OOP, REST APIs, and basic backend concepts"),
@@ -73,7 +73,7 @@ export const skillsSection: SkillsSectionType = {
         { skillName: "Django", iconifyTag: "vscode-icons:file-type-django" },
         { skillName: "Java", iconifyTag: "logos:java" }, // DSA in Java
         { skillName: "React", iconifyTag: "vscode-icons:file-type-reactjs" },
-        { skillName: "Next.js", iconifyTag: "vscode-icons:file-type-light-next" },
+        
       ],
     },
   ],
